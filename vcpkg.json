@@ -1,0 +1,10 @@
+{
+  "name": "vulkan-test",
+  "version": "1.0.0",
+  "builtin-baseline": "6d332a018c433fad20822ff4b536e4ccdc3413bd",
+  "dependencies": [
+    "glfw3",
+    "glm",
+    "vulkan-headers"
+  ]
+}
