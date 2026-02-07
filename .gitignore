@@ -1,0 +1,7 @@
+.vscode
+*.sln
+
+
+cmake-build-debug
+clion_preset.cpp
+.idea
